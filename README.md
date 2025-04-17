@@ -1,4 +1,4 @@
-Credit Card Customers Analysis Dashboards
+ # Credit Card Customers Analysis Dashboards
 
 
 ![StonksChartGIF](https://github.com/user-attachments/assets/73cfdb1a-3fb7-40a3-ac0c-e94b3ff6f7a4)
