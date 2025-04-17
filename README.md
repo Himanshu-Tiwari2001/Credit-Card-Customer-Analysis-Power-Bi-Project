@@ -1,6 +1,6 @@
  # Credit Card Customers Analysis Dashboards
 
-![data analysis](https://github.com/user-attachments/assets/005106fb-e0fb-4abc-a19a-849f04a04570)
+### ![data analysis](https://github.com/user-attachments/assets/005106fb-e0fb-4abc-a19a-849f04a04570)
 
 
 
