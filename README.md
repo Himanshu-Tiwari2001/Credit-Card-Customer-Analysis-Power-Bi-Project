@@ -5,9 +5,13 @@
 </div>
 
 
-![credit card project inro](https://github.com/user-attachments/assets/5a2fce31-cecf-4865-a532-783cbba72dd1) ![project objective](https://github.com/user-attachments/assets/27fe5124-8c73-426a-a071-59ff28e51f38)
+![credit card project inro](https://github.com/user-attachments/assets/5a2fce31-cecf-4865-a532-783cbba72dd1) 
+![project objective](https://github.com/user-attachments/assets/27fe5124-8c73-426a-a071-59ff28e51f38)
 
-[![PDF Preview](![credit card project inro](https://github.com/user-attachments/assets/5a2fce31-cecf-4865-a532-783cbba72dd1)](https://github.com/Himanshu-Tiwari2001/Credit-Card-Customer-Analysis-Power-Bi-Project/blob/main/Credit_Card_Transaction_Report_Analysis.pdf)
+**[![PDF Preview](![summary insight](https://github.com/user-attachments/assets/a3323f30-1dfd-4d99-80cc-e9109965b063)](https://github.com/Himanshu-Tiwari2001/Credit-Card-Customer-Analysis-Power-Bi-Project/blob/main/Credit_Card_Transaction_Report_Analysis.pdf)**
+
+
+
 
 
 
