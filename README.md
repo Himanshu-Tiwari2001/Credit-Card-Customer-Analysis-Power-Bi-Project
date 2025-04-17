@@ -4,7 +4,12 @@
   <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="600" height="250"/>
 </div>
 
- 
+
+![credit card project inro](https://github.com/user-attachments/assets/5a2fce31-cecf-4865-a532-783cbba72dd1)
+
+
+![project objective](https://github.com/user-attachments/assets/27fe5124-8c73-426a-a071-59ff28e51f38)
+
 
 
 
