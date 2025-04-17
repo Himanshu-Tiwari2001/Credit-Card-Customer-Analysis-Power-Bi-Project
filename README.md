@@ -1,7 +1,8 @@
  # Credit Card Customers Analysis Dashboards
 
+![data analysis](https://github.com/user-attachments/assets/005106fb-e0fb-4abc-a19a-849f04a04570)
 
-![StonksChartGIF](https://github.com/user-attachments/assets/73cfdb1a-3fb7-40a3-ac0c-e94b3ff6f7a4)
+
 
 
 
