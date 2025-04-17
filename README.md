@@ -1,6 +1,7 @@
  # Credit Card Customers Analysis Dashboards
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdata-analytics-animation--311381761730704419%2F&psig=AOvVaw1YiLG6ZWPG4DNDJ8xtAAhz&ust=1744973592956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDKjrTz3owDFQAAAAAdAAAAABB3" alt="Alt Text" width="100" height="100"/>
+<img src="https://i.pinimg.com/originals/79/1a/b0/791ab0d9c1cb0db127b12a26c4b09e61.gif" alt="Data Analytics Animation" width="100" height="100"/>
+
 
  
 
